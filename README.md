@@ -24,20 +24,24 @@ ___
 ### You can check some of snapshots of the Classified Ads Application
 * Homepage
 
-![Image](Django Pictures/Homepage.JPG)
+![Homepage](https://github.com/JoyKrishan/Autos-App-Using-PHP/blob/master/Django%20Pictures/Homepage.JPG)
+___
 
 * Addpage
 
-![Image](Django Pictures/Capture.JPG)
+![Editpage](https://github.com/JoyKrishan/Autos-App-Using-PHP/blob/master/Django%20Pictures/Editpage.JPG)
+___
 
 * Editpage
 
-![Image](Django Pictures/Addpage.JPG)
+![Addpage](https://github.com/JoyKrishan/Autos-App-Using-PHP/blob/master/Django%20Pictures/Capture.JPG)
+___
 
 * Deletepage
 
-![Image](Django Pictures/Deletepage.JPG)
+![Deletepage](https://github.com/JoyKrishan/Autos-App-Using-PHP/blob/master/Django%20Pictures/Deletepage.JPG)
+___
 
 * Loginpage 
 
-![Image](Django Pictures/Loginpage.JPG)
+![LoginPage](https://github.com/JoyKrishan/Autos-App-Using-PHP/blob/master/Django%20Pictures/Loginpage.JPG)
