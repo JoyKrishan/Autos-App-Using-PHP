@@ -135,7 +135,7 @@ L2 regularization, dropout or getting more training data. [Click here](https://g
 
  Number of iterations | Learning rate | Train Accuracy | Test Accuracy 
 
- :-: | :-: | :-: | :-: 
+ -------------------- | ------------- | -------------- | ------------- 
 
  1500(batch_size=32) | 0.0001 | 99.90% | 71% 
 
