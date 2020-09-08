@@ -107,6 +107,39 @@ ___
 
 ## Machine Learning Projects
 
+1. Logistic Regression with Neural Network mindset - A cat classifier using logistic regression. One node with sigmoid activation function is used to classify cat and non-cat images.Since logistic regeression is a linear classifier we can see that it does well on the training examples of a small dataset but there is overfitting. [Click here]() to check the full implementation in a jupyter notebook.
+
+![Simple Cat classifier using Logistic Regression]()
+
+| Number of iterations | Learning rate | Train Accuracy | Test Accuracy |
+
+| --- | --- | --- | --- |
+
+| 2000 | 0.5 | 99.04% | 70% |
+
+1. Deep Neural Network - A four layer deep neural with relu and sigmoid as the activation functions. Since logistic regression is a linear classifier, this model learns better compared to the above mentioned model. It fits the data better with a good validation score as it learns interesting functions in each layer. [Click here]() to check the full implementation in a jupyter notebook.
+
+![Cat classifier using 4-layer deep neural network]()
+
+
+| Number of iterations | Learning rate | Train Accuracy | Test Accuracy |
+
+| --- | --- | --- | --- |
+
+| 2500 | 0.0075 | 98.56% | 80% |
+
+1. Deep Neural Network using Tensorflow framework - A deep neural network model to recognize numbers from 0 to 5 in sign language with a pretty impressive accuracy. A 3-layer deep neural network where Xavier initialization is used for the weights and zero initialization for the bias. The model has variance problem(overfitted) which can be reduced by 
+L2 regularization, dropout or getting more training data.
+
+![Sign Classifier using 3-layer deep neural network]()
+
+| Number of iterations | Learning rate | Train Accuracy | Test Accuracy |
+
+| --- | --- | --- | --- |
+
+| 1500(batch_size=32) | 0.0001 | 99.90% | 71% |
+
+
 ## Web Scrapping and generating the link graph using Page Rank Algorithm
 
 Web scrapping using python to dump a given number of websites and calculate the pagerank using the number of inbound links to the website. Inbound links from a website with high pagerank value increases the pagerank to a greater value. 
