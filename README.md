@@ -133,11 +133,11 @@ L2 regularization, dropout or getting more training data. [Click here](https://g
 
 ![Sign Classifier using 3-layer deep neural network](https://github.com/JoyKrishan/Joy-s_Course_Projects/blob/master/Deep%20Images/Tensorflow.JPG)
 
-| Number of iterations | Learning rate | Train Accuracy | Test Accuracy |
+ Number of iterations | Learning rate | Train Accuracy | Test Accuracy 
 
-| :-: | :-: | :-: | :-: |
+ :-: | :-: | :-: | :-: 
 
-| 1500(batch_size=32) | 0.0001 | 99.90% | 71% |
+ 1500(batch_size=32) | 0.0001 | 99.90% | 71% 
 
 
 ## Web Scrapping and generating the link graph using Page Rank Algorithm
