@@ -111,10 +111,8 @@ ___
 
 ![Simple Cat classifier using Logistic Regression](https://github.com/JoyKrishan/Joy-s_Course_Projects/blob/master/Deep%20Images/Cat_classifications_using_Logistic__regression.JPG)
 
-| Number of iterations | Learning rate | Train Accuracy | Test Accuracy |
-
-| :-: | :-: | :-: | :-: |
-
+ Number of iterations | Learning rate | Train Accuracy | Test Accuracy 
+ -------------------- | ------------- | -------------- | ------------- 
 | 2000 | 0.5 | 99.04% | 70% |
 
 1. Deep Neural Network - A four layer deep neural with relu and sigmoid as the activation functions. Since logistic regression is a linear classifier, this model learns better compared to the above mentioned model. It fits the data better with a good validation score as it learns interesting functions in each layer. [Click here](https://github.com/JoyKrishan/Joy-s_Course_Projects/blob/master/Machine%20Learning/Deep%20Neural%20Network%20Application_%20Image%20Classification/Deep%20Neural%20Network%20-%20Application%20v8.ipynb) to check the full implementation in a jupyter notebook.
@@ -122,10 +120,8 @@ ___
 ![Cat classifier using 4-layer deep neural network](https://github.com/JoyKrishan/Joy-s_Course_Projects/blob/master/Deep%20Images/Cat_classification_using_NN.JPG)
 
 
-| Number of iterations | Learning rate | Train Accuracy | Test Accuracy |
-
-| :-: | :-: | :-: | :-: |
-
+ Number of iterations | Learning rate | Train Accuracy | Test Accuracy 
+ -------------------- | ------------- | -------------- | ------------- 
 | 2500 | 0.0075 | 98.56% | 80% |
 
 1. Deep Neural Network using Tensorflow framework - A deep neural network model to recognize numbers from 0 to 5 in sign language with a pretty impressive accuracy. A 3-layer deep neural network where Xavier initialization is used for the weights and zero initialization for the bias. The model has variance problem(overfitted) which can be reduced by 
@@ -137,10 +133,6 @@ L2 regularization, dropout or getting more training data. [Click here](https://g
  -------------------- | ------------- | -------------- | ------------- 
  1500(batch_size=32) | 0.0001 | 99.90% | 71% 
  
- First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
 
 
 
