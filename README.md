@@ -73,11 +73,11 @@ ___
 ___
 __For Logging In: Username- JoyKrishanDas Pass- djangoisfun__
 ___
-1. Classified Ads Application where you can post advertisements with details and picture. The Owner of the add can delete, update his ad. However, other users can add comments to all ads posted on the website. [Click Here to Visit]()
+1. Classified Ads Application where you can post advertisements with details and picture. The Owner of the add can delete, update his ad. However, other users can add comments to all ads posted on the website. [Click Here to Visit](https://a21859cd7944.ngrok.io/ads/)
 
-
+<!--
 >> **Note the Link to the Applications will only work if I host the projects from my PC**
-
+-->
 
 ### You can check some of snapshots of the Classified Ads Application
 * Homepage
