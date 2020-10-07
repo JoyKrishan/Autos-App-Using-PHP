@@ -7,11 +7,11 @@ ___
 __For Logging In: Email- joy.krishan@funny.com Pass- php123__
 ___
 
-1. Simple Autos Application to keep record of different model of automobiles. [Click Here to Visit]()
-1. Profiles, Position and Education Application to keep record of the multiple users. [Click Here to Visit]()
-
+1. Simple Autos Application to keep record of different model of automobiles. [Click Here to Visit](https://e14b4b7e078c.ngrok.io/Database_PHP/CRUD_app/)
+1. Profiles, Position and Education Application to keep record of the multiple users. [Click Here to Visit](https://e14b4b7e078c.ngrok.io/Database_PHP/Users&Profile/)
+<!--
 >>**Note the Link to the Application will only work if I host the projects from my PC**
-
+-->
 
 ### You can check some of snapshots of the Simple Autos Application
 
