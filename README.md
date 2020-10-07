@@ -11,7 +11,7 @@ ___
 1. Profiles, Position and Education Application to keep record of the multiple users. [Click Here to Visit](https://e14b4b7e078c.ngrok.io/Database_PHP/Users&Profile/)
 <!--
 >>**Note the Link to the Application will only work if I host the projects from my PC**
--->
+
 
 ### You can check some of snapshots of the Simple Autos Application
 
@@ -68,6 +68,7 @@ ___
 * Displaypage
 
 ![DisplayPage](https://github.com/JoyKrishan/Joy-s_Course_Projects/blob/master/PHP%20pictures/Profiles_displaypage.JPG)
+-->
 
 ## Django CRUD Applications using JavaScript, jQuery
 ___
@@ -77,7 +78,7 @@ ___
 
 <!--
 >> **Note the Link to the Applications will only work if I host the projects from my PC**
--->
+
 
 ### You can check some of snapshots of the Classified Ads Application
 * Homepage
@@ -103,7 +104,7 @@ ___
 * Loginpage 
 
 ![LoginPage](https://github.com/JoyKrishan/Autos-App-Using-PHP/blob/master/Django%20Pictures/Loginpage.JPG)
-
+-->
 
 ## Machine Learning Projects
 
