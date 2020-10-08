@@ -7,8 +7,8 @@ ___
 __For Logging In: Email- joy.krishan@funny.com Pass- php123__
 ___
 
-1. Simple Autos Application to keep record of different model of automobiles. [Click Here to Visit](https://e14b4b7e078c.ngrok.io/Database_PHP/CRUD_app/)
-1. Profiles, Position and Education Application to keep record of the multiple users. [Click Here to Visit](https://e14b4b7e078c.ngrok.io/Database_PHP/Users&Profile/)
+1. Simple Autos Application to keep record of different model of automobiles. [Click Here to Visit](https://a1e57fb5da11.ngrok.io/Database_PHP/CRUD_app/)
+1. Profiles, Position and Education Application to keep record of the multiple users. [Click Here to Visit](https://a1e57fb5da11.ngrok.io/Database_PHP/Users&Profile/)
 <!--
 >>**Note the Link to the Application will only work if I host the projects from my PC**
 
@@ -74,7 +74,7 @@ ___
 ___
 __For Logging In: Username- JoyKrishanDas Pass- djangoisfun__
 ___
-1. Classified Ads Application where you can post advertisements with details and picture. The Owner of the add can delete, update his ad. However, other users can add comments to all ads posted on the website. [Click Here to Visit](https://a21859cd7944.ngrok.io/ads/)
+1. Classified Ads Application where you can post advertisements with details and picture. The Owner of the add can delete, update his ad. However, other users can add comments to all ads posted on the website. [Click Here to Visit](https://5565b4c94c7c.ngrok.io/ads/)
 
 <!--
 >> **Note the Link to the Applications will only work if I host the projects from my PC**
