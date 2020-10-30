@@ -9,7 +9,7 @@ ___
 
 1. Simple Autos Application to keep record of different model of automobiles. [Click Here to Visit](https://a1e57fb5da11.ngrok.io/Database_PHP/CRUD_app/)
 1. Profiles, Position and Education Application to keep record of the multiple users. [Click Here to Visit](https://a1e57fb5da11.ngrok.io/Database_PHP/Users&Profile/)
-<!--
+
 >>**Note the Link to the Application will only work if I host the projects from my PC**
 
 
@@ -68,7 +68,7 @@ ___
 * Displaypage
 
 ![DisplayPage](https://github.com/JoyKrishan/Joy-s_Course_Projects/blob/master/PHP%20pictures/Profiles_displaypage.JPG)
--->
+
 
 ## Django CRUD Applications using JavaScript, jQuery
 ___
@@ -76,7 +76,7 @@ __For Logging In: Username- JoyKrishanDas Pass- djangoisfun__
 ___
 1. Classified Ads Application where you can post advertisements with details and picture. The Owner of the add can delete, update his ad. However, other users can add comments to all ads posted on the website. [Click Here to Visit](https://5565b4c94c7c.ngrok.io/ads/)
 
-<!--
+
 >> **Note the Link to the Applications will only work if I host the projects from my PC**
 
 
@@ -104,7 +104,7 @@ ___
 * Loginpage 
 
 ![LoginPage](https://github.com/JoyKrishan/Autos-App-Using-PHP/blob/master/Django%20Pictures/Loginpage.JPG)
--->
+
 
 ## Machine Learning Projects
 
